@@ -1,4 +1,4 @@
-# AdventureWorks Sales & Returns Analysis
+# AdventureWorks Sales & Customer Insights | Power BI
 
 ## Project Overview
 This project is an end-to-end Power BI business intelligence solution built using AdventureWorks sales data.
