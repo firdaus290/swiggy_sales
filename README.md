@@ -22,23 +22,38 @@ The company lacked visibility into:
 * **Time Intelligence:** Created measures for MoM (Month over Month) growth and 90-day rolling profit averages.
 * **Customer Segmentation:** Categorized customers by Income Level and Occupation to drive marketing insights.
 
-## 📸 Dashboard Visuals
+## Dashboard Visuals
 
-### 1. Executive Dashboard
-This page provides a high-level overview of company performance, including Total Revenue, Profit, and Return Rates.
-![Executive Dashboard](assets/Executive_dashboard.png)
+<table>
+  <tr>
+    <th width="25%"><b>Executive Dashboard</b></th>
+    <th width="25%"><b>Map</b></th>
+    <th width="25%"><b>Product Detail</b></th>
+    <th width="25%"><b>Customer Detail</b></th>
+  </tr>
 
-### 2. Map View
-This visualizes the geographic distribution of sales, highlighting top-performing regions.
-![Sales Map](assets/Map.png)
+  <tr>
+    <td><img src="assets/Executive_dashboard.png" width="400" alt="Executive Dashboard"></td>
+    <td><img src="assets/Map.png" width="400" alt="Map Dashboard"></td>
+    <td><img src="assets/Product_detail.png" width="400" alt="Product Detail"></td>
+    <td><img src="assets/Customer_detail.png" width="400" alt="Customer Detail"></td>
+  </tr>
 
-### 3. Product Detail Report
-A breakdown of product performance, helping identify top-selling items and inventory trends.
-![Product Detail](assets/Product_detail.png)
-
-### 4. Customer Detail Report
-This page allows deep-dive analysis into customer demographics, including Income Level and Occupation.
-![Customer Detail](assets/Customer_detail.png)
+  <tr valign="top">
+    <td>
+      This page provides a high-level overview of company performance, including Total Revenue, Profit, and Return Rates.
+    </td>
+    <td>
+      This visualizes the geographic distribution of sales, highlighting top-performing regions.
+    </td>
+    <td>
+      A breakdown of product performance, helping identify top-selling items and inventory trends.
+    </td>
+    <td>
+      This page allows deep-dive analysis into customer demographics, including Income Level and Occupation.
+    </td>
+  </tr>
+</table>
 
 ## How to Use
 1.  Download the `PowerBI project.pbix` file.
