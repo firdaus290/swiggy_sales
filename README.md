@@ -45,3 +45,15 @@ This page allows deep-dive analysis into customer demographics, including Income
 2.  Open in Power BI Desktop.
 3.  Use the **"Executive Dashboard"** tab for high-level stats.
 4.  Navigate to **"Customer Detail"** to drill down into specific buyer segments.
+
+## 🤝 Connect with Me
+
+
+## 🤝 Connect with Me
+I am currently **Open to Work** and actively seeking full-time **Data Analyst** opportunities. If you are looking for someone who can transform raw data into actionable insights, I would love to chat!
+
+* 💼 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/firdaus-parvez/)
+* 📧 **Email:** [firdaus.parvez290@gmail.com](mailto:firdaus.parvez290@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaus-parvez/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firdaus.parvez290@gmail.com)
