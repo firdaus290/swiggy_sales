@@ -46,8 +46,6 @@ This page allows deep-dive analysis into customer demographics, including Income
 3.  Use the **"Executive Dashboard"** tab for high-level stats.
 4.  Navigate to **"Customer Detail"** to drill down into specific buyer segments.
 
-## 🤝 Connect with Me
-
 
 ## 🤝 Connect with Me
 I am currently **Open to Work** and actively seeking full-time **Data Analyst** opportunities. If you are looking for someone who can transform raw data into actionable insights, I would love to chat!
