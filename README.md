@@ -22,6 +22,24 @@ The company lacked visibility into:
 * **Time Intelligence:** Created measures for MoM (Month over Month) growth and 90-day rolling profit averages.
 * **Customer Segmentation:** Categorized customers by Income Level and Occupation to drive marketing insights.
 
+## 📸 Dashboard Visuals
+
+### 1. Executive Dashboard
+This page provides a high-level overview of company performance, including Total Revenue, Profit, and Return Rates.
+![Executive Dashboard](assets/Executive_dashboard.png)
+
+### 2. Map View
+This visualizes the geographic distribution of sales, highlighting top-performing regions.
+![Sales Map](assets/Map.png)
+
+### 3. Product Detail Report
+A breakdown of product performance, helping identify top-selling items and inventory trends.
+![Product Detail](assets/Product_detail.png)
+
+### 4. Customer Detail Report
+This page allows deep-dive analysis into customer demographics, including Income Level and Occupation.
+![Customer Detail](assets/Customer_detail.png)
+
 ## How to Use
 1.  Download the `PowerBI project.pbix` file.
 2.  Open in Power BI Desktop.
